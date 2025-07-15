@@ -4,4 +4,4 @@ val: images/val # val images (relative to 'path')
 
 # Classes
 names:
-  0: duck
+  0: iPhone
